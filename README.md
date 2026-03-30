@@ -9,6 +9,7 @@ Registration Number: 24BAI10142
 
 ## Overview
 
+A simple Java console application for managing students, courses, and enrollments.
 This is a Java SE console-based project that demonstrates core object-oriented programming concepts along with practical file handling and system design.
 
 The application allows basic management of students, courses, and enrollments through a menu-driven command-line interface.
