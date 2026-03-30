@@ -77,6 +77,10 @@ javac -d out $(find src -name "*.java")
 java -cp out edu.ccrm.cli.CCRMApp
 ```
 
+Note: If permission error occurs, run using:
+```bash
+bash compile_and_run.sh
+```
 ---
 
 ### Windows (PowerShell)
